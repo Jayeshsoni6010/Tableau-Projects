@@ -7,26 +7,26 @@ This dashboard explores the participation of women in STEM fields (Science, Tech
 
 ## 📊 Key Insights
 
-**Women by Occupation**
+**🔹 Women by Occupation**
 - The highest share of women is in **Biological Sciences (40.4%)**, followed by **Computer & Mathematical fields (25.2%)**.
 - Engineering & Architecture have the lowest representation (16.5%).
 
-**Education Trend (2000–2015)**
+**🔹 Education Trend (2000–2015)**
 - Women graduating in Computer Science and Engineering declined over time:
   - Computer Science: 8.22% (2000) → **5.28%** (2015)
   - Engineering: 6.56% (2000) → **2.93%** (2015)
 - Indicates a **drop in women pursuing tech-focused degrees**.
 
-**STEM Jobs by Education Level**
+**🔹 STEM Jobs by Education Level**
 - Across Professional/Doctoral degrees, **12.5% of women are distributed equally** in various STEM job categories.
 - Health-related jobs dominate among women with advanced degrees.
 
-**Employment by Field of Education**
+**🔹 Employment by Field of Education**
 - **46.31%** women working in **Health Professions(more than men).**
 - 25.5% women in Computers (lower than men: 32.3%).
 - Engineering jobs show 16.11% women compared to 18.29% men.
 
-**Salary Comparison by Ethnicity**
+**🔹 Salary Comparison by Ethnicity**
 - **Asian men earn the highest** salaries among all groups (~96k).
 - **Asian women also earn higher** than women of other ethnicities (~81k).
 - A gender pay gap is visible across all ethnic groups.
