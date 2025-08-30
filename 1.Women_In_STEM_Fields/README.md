@@ -31,13 +31,13 @@ This dashboard explores the participation of women in STEM fields (Science, Tech
 - Asian women also earn higher than women of other ethnicities (~81k).
 - A gender pay gap is visible across all ethnic groups.
 
+## Tools Used
+- Tableau
+- Excel
+
 ## 📂 Dataset
 The analysis is based on the following dataset: 
 [📥 Download Excel File](https://github.com/Jayeshsoni6010/Tableau-Projects/blob/488fa3e266d34a168d41c265e170d63609b31c47/1.Women_In_STEM_Fields/Project%201%20data.xlsx)
 
 ## Preview
 ![Women In STEM Field Dashboard](https://github.com/Jayeshsoni6010/Tableau-Projects/blob/0c802cd1d7b3d120b8767a6f8a9e068e5d4c1c28/1.Women_In_STEAM_Fields/Women%20in%20STEM%20fields%20.png)
-
-## Tools
-- Tableau
-- Excel
