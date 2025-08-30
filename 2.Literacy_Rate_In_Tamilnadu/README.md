@@ -7,36 +7,36 @@ This Tableau project visualizes the **literacy rate, scholarships, institutions,
 
 ## 📊 Key Insights
 
-**Literacy Rate**
+**🔹 Literacy Rate**
 - Tamil Nadu’s literacy rate (2011 Census) stands at **80.09%**.
   - **Male literacy: 86.77%**
   - **Female literacy: 73.44%**
 - In 2001, the literacy rate was 73.45% → showing a **6.64% increase** in a decade.
 - **Female literacy improved** significantly from 64.43% (2001) to 73.44% (2011).
 
-**District-Wise Population & Literacy**
+**🔹 District-Wise Population & Literacy**
 - **Chennai has the highest total population** among districts, with significant male-female distribution.
 - District ranking by literacy rate is provided, with several districts crossing **85% literacy**.
 - Some districts still fall in the Amber zone (75–85%), requiring further educational outreach.
 
-**Scholarships to Students**
+**🔹 Scholarships to Students**
 - Scholarships were distributed mainly to SC/ST/MBC/DNC students.
 - **Coimbatore and Kanchipuram received the highest scholarship amounts** (₹1.31 lakh & ₹1.36 lakh respectively).
 - However, despite high funding, these districts are still in the Amber zone (<85% literacy).
 - Interestingly, The **Nilgiris utilized scholarship funds effectively** and maintained literacy above 85%.
 
-**Number of Institutions**
+**🔹 Number of Institutions**
 - **Tamil Nadu has a large base of Nursery & Primary Schools** (35,379).
 - Middle schools (9,733) also dominate, while:
   - High Schools – State Board: 2,936
   - Higher Secondary Schools – State Board: 2,320
 - The trend shows students preferring state schools over central schools.
 
-**Teacher Availability**
+**🔹 Teacher Availability**
 - Teacher strength is adequate in primary and middle schools.
 - However, **higher secondary state board schools lack sufficient teachers**, leading to a bottleneck for students progressing to higher education.
 
-**SC & ST Students (% Share)**
+**🔹 SC & ST Students (% Share)**
 - Total **SC** population: 1,05,432,482 **(20%)**
 - Total **ST** population: 7,94,697 **(1.51%)**
 - Most SC/ST students are completing middle school, but comparatively fewer are moving ahead in higher secondary.
